@@ -1,0 +1,33 @@
+---
+title: "My website"
+subtitle: ""
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+# Info
+
+This is just a regular markdown document. You can get rid of the table of contents on the left by setting `toc=false` in the YAML.
+
+# More info
+
+And more.
+
+# And more
+
+* one
+
+* two
+
+* three
+
+<center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
