@@ -1,13 +1,15 @@
 # Simple-Website-doc
 This is a simple website created from RStudio where the website files are put in the doc folder.
 
-To clone (There are a few ways. This is one from RStudio)
-* Copy the URL of the repo "https://github.com/RVerse-Tutorials/Simple-Website-doc"
+To set up your own GitHub webpage using this
+* Fork the repo to your GitHub account
+* Copy the URL of YOUR repo
 * Open RStudio
 * Select Create New Project (upper right)
 * Select 'From Version Control' -> Select from 'Git' -> Paste in the repo URL
 
-To build your website with RStudio
+## To build your website with RStudio
+
 * Select 'Build' from upper right in RStudio to build the website
 
 ## To customize
